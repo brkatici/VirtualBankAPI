@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rd8NUHksdHL1D4lXgwvC3ZsSvdXZVcp8QGouVIQLow8=",
+  "Source": "RestfulBankApi",
+  "BasePath": "_content/RestfulBankApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
